@@ -5,6 +5,12 @@ The goal of this demo app is to learn how to integrate *some* accessibility test
 feedback while building out the UI. Using these tools will only capture around half of the accessibility violations so
 you may need to rely on other tools and manual testing for comprehensive coverage.
 
+### axe-core
+axe-core provides real-time violation checks in the browser console. Read more about [@axe-core/react](https://www.npmjs.com/package/@axe-core/react).
+
+### jest-axe
+jest-axe provides developers a way to run accessibility checks against UI components in jest tests. Read more about [jest-axe](https://www.npmjs.com/package/jest-axe).
+
 ## Getting Started
 
 ### Setting up environment
